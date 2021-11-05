@@ -1,0 +1,31 @@
+body{
+    background-color: lightgrey;
+}
+.alpha{
+    text-decoration: none;
+    max-width: 100px;
+    margin:0 auto;
+    margin-top: 3rem;
+}
+
+.alpha li{
+    display: inline;
+    padding-left: 10px;
+}
+
+h1{
+    text-align: center;
+}
+
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+
+.butt{
+    margin-top: 30px;
+    margin-left: 27%;
+    margin-right: auto;
+}

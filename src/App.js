@@ -1,13 +1,11 @@
 import React from "react";
-import Color from "./Color.js";
+import Hangman from "./hangman";
 
 class App extends React.Component{
 
     render(){
         return(
-            <div>
-                <Color />
-            </div>
+            <Hangman />
         )
     }
 }

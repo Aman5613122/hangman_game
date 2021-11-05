@@ -1,0 +1,32 @@
+const word = [
+    "Chair",
+    "Defination",
+    "WordType",
+    "Noun",
+    "Apple",
+    "boy",
+    "difference",
+    "need",
+    "not",
+    "give",
+    "purpose",
+    "going",
+    "let",
+    "us",
+    "see",
+    "weekend",
+    "rose",
+    "marry",
+    "glow",
+    "grow",
+    "people",
+    "umbrella",
+    "nested",
+    "nonsense",
+    "goal",
+    "good",
+    "handsome",
+    "after"
+]
+
+export default word;
